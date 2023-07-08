@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+
+.background-image
+{
+    background-image: url("https://www.open.edu/openlearn/pluginfile.php/1630187/tool_ocwmanage/image/0/a215_1_cover_image.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
